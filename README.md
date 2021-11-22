@@ -43,3 +43,9 @@ echo "" > /dados/ufes/train.list
 
 ```
 
+@misc{lightnet18,
+  author = {Tanguy Ophoff},
+  title = {Lightnet: Building Blocks to Recreate Darknet Networks in Pytorch},
+  howpublished = {\url{https://gitlab.com/EAVISE/lightnet}},
+  year = {2018}
+}
